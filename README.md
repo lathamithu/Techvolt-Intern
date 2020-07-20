@@ -5,3 +5,6 @@
 
 ***Day_3***
   Linear Regression
+
+***Day_4***
+  Lasso and Ridge Regression
