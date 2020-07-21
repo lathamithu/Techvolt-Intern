@@ -8,3 +8,6 @@
 
 ***Day_4***
   Lasso and Ridge Regression
+
+***Day_5***
+  K nearest neighbors with Python
