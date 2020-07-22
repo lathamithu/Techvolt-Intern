@@ -11,3 +11,6 @@
 
 ***Day_5***
   K nearest neighbors with Python
+
+***Day_6***
+  Titanic data analysis - Logistic Regression
