@@ -14,3 +14,6 @@
 
 ***Day_6***
   Titanic data analysis - Logistic Regression
+
+***Day_7***
+  Naive Bayes - Adult dataset
