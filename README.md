@@ -22,9 +22,9 @@
  
  Consider a data set (Train.csv and Test.csv) related to sales of items in shops. The fields in Train.csv data set are:
 
-Item_Identifier: Code given to items
-Item_Weight: Weight of an item
-Item_Fat_Content: Fat content of the item like low, high etc
+*Item_Identifier: Code given to items
+*Item_Weight: Weight of an item
+*Item_Fat_Content: Fat content of the item like low, high etc
 Item_Visibility: A continuous value indicating the visibility of the item for a customer
 Item_Type: Type of the item like dairy, vegetables etc
 Item_MRP: Maximum retail price of the item
