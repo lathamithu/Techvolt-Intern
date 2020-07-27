@@ -65,7 +65,7 @@ NOTE:
   Graphs must have proper labels and legends. 
   At the end of task, give your analysis on the entire dataset, about features, their importance etc.
 
-***Task***
+***Day_8 (Task)***
 
   Bob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.
   He does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market you cannot simply assume things. To solve this problem he collects sales data of mobile phones of various companies.
@@ -116,4 +116,5 @@ In this data:
   
   wifi:Has wifi or not
 
-
+***Day_9***
+  SVM Implementation
