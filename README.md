@@ -118,3 +118,7 @@ In this data:
 
 ***Day_9***
   SVM Implementation
+
+
+***Day_10***
+  Decision Tree
