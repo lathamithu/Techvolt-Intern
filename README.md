@@ -122,3 +122,7 @@ In this data:
 
 ***Day_10***
   Decision Tree
+
+***Day_11***
+  Random Forest
+  Task_2
