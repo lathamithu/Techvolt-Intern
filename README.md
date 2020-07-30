@@ -128,3 +128,6 @@ In this data:
   
   
   Task_2
+
+***Day_12***
+  Adaboost
