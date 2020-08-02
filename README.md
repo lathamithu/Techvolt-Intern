@@ -131,3 +131,8 @@ In this data:
 
 ***Day_12***
   Adaboost
+
+***Day_13***
+  Task_3
+  
+  Assignment_2
