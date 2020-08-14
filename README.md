@@ -22,31 +22,31 @@
  
  Consider a data set (Train.csv and Test.csv) related to sales of items in shops. The fields in Train.csv data set are:
 
-  Item_Identifier: Code given to items
+    Item_Identifier: Code given to items
 
-  Item_Weight: Weight of an item
+    Item_Weight: Weight of an item
 
-  Item_Fat_Content: Fat content of the item like low, high etc
+    Item_Fat_Content: Fat content of the item like low, high etc
 
-  Item_Visibility: A continuous value indicating the visibility of the item for a customer
+    Item_Visibility: A continuous value indicating the visibility of the item for a customer
 
-  Item_Type: Type of the item like dairy, vegetables etc
+    Item_Type: Type of the item like dairy, vegetables etc
 
-  Item_MRP: Maximum retail price of the item
+    Item_MRP: Maximum retail price of the item
 
-  Outlet_Identifier: Code given to outlets
+    Outlet_Identifier: Code given to outlets
 
-  Outlet_Establishment_Year : Year of establishment of an outlet
+    Outlet_Establishment_Year : Year of establishment of an outlet
 
-  Outlet_Size: Size of an outlet like medium, high etc.
+    Outlet_Size: Size of an outlet like medium, high etc.
 
-  Outlet_Location_Type: Location of the outlet in a city like Tier1, 2 etc.
+    Outlet_Location_Type: Location of the outlet in a city like Tier1, 2 etc.
 
-  Outlet_Type: Type of the outlet like supermarket, grocery shop etc.
+    Outlet_Type: Type of the outlet like supermarket, grocery shop etc.
 
-  Item_Outlet_Sales: Sale value of an item in outlet. It is a target variable.
+    Item_Outlet_Sales: Sale value of an item in outlet. It is a target variable.
 
-  The Test.csv do not contain the field Item_Outlet_Sales.
+    The Test.csv do not contain the field Item_Outlet_Sales.
 
 Tasks:
   Use the Train.csv file for fitting the models (Divide this file into training set and testing set)
@@ -74,47 +74,47 @@ NOTE:
  
 In this data:
 
-  id:ID
+    id:ID
 
-  battery_power:Total energy a battery can store in one time measured in mAh
-  
-  blue:Has bluetooth or not
-  
-  clock_speed:speed at which microprocessor executes instructions
-  
-  dual_sim:Has dual sim support or not
-  
-  fc:Front Camera mega pixels
-  
-  four_g:Has 4G or not
-  
-  int_memory:Internal Memory in Gigabytes
-  
-  m_dep:Mobile Depth in cm
-  
-  mobile_wt:Weight of mobile phone
-  
-  n_cores:Number of cores of processor
-  
-  pc:Primary Camera mega pixels
-  
-  px_height:Pixel Resolution Height
-  
-  px_width:Pixel Resolution Width
-  
-  ram:Random Access Memory in Megabytes
-  
-  sc_h:Screen Height of mobile in cm
-  
-  sc_w:Screen Width of mobile in cm
-  
-  talk_time:longest time that a single battery charge will last when you are
-  
-  three_g:Has 3G or not
-  
-  touch_screen:Has touch screen or not
-  
-  wifi:Has wifi or not
+    battery_power:Total energy a battery can store in one time measured in mAh
+
+    blue:Has bluetooth or not
+
+    clock_speed:speed at which microprocessor executes instructions
+
+    dual_sim:Has dual sim support or not
+
+    fc:Front Camera mega pixels
+
+    four_g:Has 4G or not
+
+    int_memory:Internal Memory in Gigabytes
+
+    m_dep:Mobile Depth in cm
+
+    mobile_wt:Weight of mobile phone
+
+    n_cores:Number of cores of processor
+
+    pc:Primary Camera mega pixels
+
+    px_height:Pixel Resolution Height
+
+    px_width:Pixel Resolution Width
+
+    ram:Random Access Memory in Megabytes
+
+    sc_h:Screen Height of mobile in cm
+
+    sc_w:Screen Width of mobile in cm
+
+    talk_time:longest time that a single battery charge will last when you are
+
+    three_g:Has 3G or not
+
+    touch_screen:Has touch screen or not
+
+    wifi:Has wifi or not
 
 ***Day_9***
   SVM Implementation
@@ -202,18 +202,17 @@ In this data:
 ***Final Assessment***
   Predict Number of Upvotes
 
-    An online question and answer platform has hired you as a data scientist to identify the best question authors on the platform. This identification will bring more insight into increasing the user engagement. Given the tag of the question, number of views received, number of answers, username and reputation of the question author, the problem requires you to predict the upvote count that the question will receive.
+   An online question and answer platform has hired you as a data scientist to identify the best question authors on the platform. This identification will bring more insight into increasing the user engagement. Given the tag of the question, number of views received, number of answers, username and reputation of the question author, the problem requires you to predict the upvote count that the question will receive.
   
   Data Dictionary
-  
-  
-  ID - Question ID
-  Tag - Anonymised tags representing question category
-  Reputation - Reputation score of question author
-  Answers - Number of times question has been answered
-  Username - Anonymised user id of question author
-  Views - Number of times question has been viewed
-  Upvotes - (Target) Number of upvotes for the question
+
+    ID - Question ID
+    Tag - Anonymised tags representing question category
+    Reputation - Reputation score of question author
+    Answers - Number of times question has been answered
+    Username - Anonymised user id of question author
+    Views - Number of times question has been viewed
+    Upvotes - (Target) Number of upvotes for the question
   
   Evaluation Metric
   The evaluation metric is RMSE (root mean squared error)
